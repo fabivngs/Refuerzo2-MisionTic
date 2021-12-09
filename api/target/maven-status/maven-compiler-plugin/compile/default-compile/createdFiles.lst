@@ -1,0 +1,8 @@
+co\edu\unab\api\controllers\ClienteController.class
+co\edu\unab\api\models\ProductModel.class
+co\edu\unab\api\models\ClienteModel.class
+co\edu\unab\api\models\AddressModel.class
+co\edu\unab\api\repositories\ClienteRepository.class
+co\edu\unab\api\ServletInitializer.class
+co\edu\unab\api\ApiApplication.class
+co\edu\unab\api\services\ClienteService.class
